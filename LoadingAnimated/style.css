@@ -16,14 +16,14 @@ body{
 .loader{
     display: flex;
     justify-content: space-evenly;
-    padding: 0 20px;
+    padding: 0 50px;
 }
 .loader .loading{
     background: #fff;
     width: 30px;
     height: 30px;
-    border-radius: 50px;
-    margin: 0 10px;
+    border-radius: 5px;
+    margin: 0 15px;
     animation: load 0.8s ease infinite;
 }
 .loader .loading.one {

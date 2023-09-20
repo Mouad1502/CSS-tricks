@@ -1,0 +1,30 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    color: white
+}
+body{
+    background: #0008bbcb;
+}
+.card{
+    border-radius: 20px;
+    border: 2px solid #222679cb;
+    width:700px;
+    background: #2f35b1cb;
+    padding: 20px;
+    margin: 20px;
+    line-height: 28px;
+}
+.card h2{
+    background-color: #222679cb;
+    font-weight: 600;
+    display: inline-block;
+    padding: 15px 30px;
+    margin-bottom: 20px;
+    border: 2px solid white;
+}
+::-webkit-scrollbar {
+    background-color: transparent;
+}
